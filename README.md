@@ -40,11 +40,16 @@ Este repositorio contiene una guía práctica, clara y con enfoque humano para r
 
 ## 📚 Licencia de uso
 
-Este material puede ser compartido con fines educativos, de capacitación o mejora interna, siempre que se respete la autoría y no se comercialice sin permiso previo.
+Este proyecto está bajo la licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+
+Puedes copiar, redistribuir, adaptar y construir sobre este contenido para fines **educativos o no comerciales**, siempre que se cite correctamente al autor original y se mantenga el espíritu abierto del material.
+
+🔗 [Ver texto completo de la licencia](https://creativecommons.org/licenses/by-nc/4.0/)
+
+© 2025 Yoniliman Galvis Aguirre
 
 > "Ojos que no leen... con razón que no entienden."
 
-**Autor:** Yoniliman Galvis Aguirre  
 **Versión:** 1.0 – Abril 2025
 
 ---
