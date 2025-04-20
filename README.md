@@ -37,7 +37,6 @@ Este repositorio contiene una guía práctica, clara y con enfoque humano para r
 - Cualquier profesional que necesite que su informe se lea... y se entienda
 
 ---
-[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 📚 Licencia de uso
 
@@ -52,6 +51,8 @@ Puedes copiar, redistribuir, adaptar y construir sobre este contenido para fines
 > "Ojos que no leen... con razón que no entienden."
 
 **Versión:** 1.0 – Abril 2025
+
+[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
