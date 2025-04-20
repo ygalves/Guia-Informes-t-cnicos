@@ -1,4 +1,4 @@
-![Portada del manual](portada%20wide.png)
+![Portada del manual](images/portada%20wide.png)
 
 # Manual de Supervivencia para el Reporte Técnico
 
