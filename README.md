@@ -37,6 +37,7 @@ Este repositorio contiene una guía práctica, clara y con enfoque humano para r
 - Cualquier profesional que necesite que su informe se lea... y se entienda
 
 ---
+[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 📚 Licencia de uso
 
