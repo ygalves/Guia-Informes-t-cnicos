@@ -1,7 +1,8 @@
+![Portada del manual](portada%20wide.png)
+
 # Manual de Supervivencia para el Reporte Técnico
 
 > ¿Otro informe más?... Haz que el tuyo sí importe (y no lo odien en el intento).
-
 
 Este repositorio contiene una guía práctica, clara y con enfoque humano para redactar informes técnicos que realmente comuniquen, conecten con sus destinatarios y generen acción.
 
