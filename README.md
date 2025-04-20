@@ -58,7 +58,7 @@ Puedes copiar, redistribuir, adaptar y construir sobre este contenido para fines
 
 ## 💬 Comentarios, aportes y colaboraciones
 
-Puedes abrir un _issue_, forkar el repositorio o escribirme si tienes mejoras, sugerencias o deseas adaptar esta guía a tu entorno organizacional o educativo.
+Puedes abrir un _issue_, hacer una copia (_fork_) del repositorio o escribirme si tienes mejoras, sugerencias o deseas adaptar esta guía a tu entorno organizacional o educativo.
 
 ---
 
