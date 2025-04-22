@@ -1,64 +1,75 @@
 ![Portada del manual](images/portada%20wide.png)
 
+Write It Like You Mean It
+
+### A Human-Centered Survival Guide to Technical Reports That Actually Get Read (and Maybe Even Liked)
+
 # Manual de Supervivencia para el Reporte Técnico
 
+> Another technical report? Make yours worth reading—and maybe even appreciated.  
 > ¿Otro informe más?... Haz que el tuyo sí importe (y no lo odien en el intento).
 
+This repository contains a practical, clear, and human-centered guide for writing technical reports that truly communicate, resonate with readers, and lead to action.  
 Este repositorio contiene una guía práctica, clara y con enfoque humano para redactar informes técnicos que realmente comuniquen, conecten con sus destinatarios y generen acción.
 
 ---
 
-## 📏 Contenido principal
+## 📏 Main Contents / Contenido principal
 
-- `Guia_Reportes_Tecnicos.pdf` → Documento completo.
-- `/plantillas/` → Plantillas de correo e informe técnico (editables).
-- `/imagenes/` → Infografías visuales y portada del proyecto.
-- `/presentacion/` → Carrusel visual estilo redes para capacitaciones o difusión.
-
----
-
-## 🚽 Temas abordados
-
-- Estructura flexible para reportes efectivos.
-- Buenas prácticas de redacción técnica.
-- Checklist emocional y técnico antes de enviar.
-- Cómo actuar si nadie responde a tu informe.
-- Uso seguro y responsable de herramientas de IA.
-- Visualización de datos y adaptación al público.
+- `Write_It_Like_You_Mean_It.pdf` / `Manual_Supervivencia_Reporte_Tecnico.pdf` → Full document / Documento completo
+- `/templates/` / `/plantillas/` → Editable templates for reports and emails / Plantillas editables de correos e informes
+- `/images/` / `/imagenes/` → Infographics and cover visuals / Infografías y portada
+- `/presentation/` / `/presentacion/` → Visual carousel slides for training / Carrusel visual estilo redes
 
 ---
 
-## 🌎 Dirigido a
+## 🚀 Topics Covered / Temas Abordados
 
-- Técnicos e ingenieros de campo
-- Estudiantes de ingeniería o tecnologías
-- Supervisores y responsables de procesos
-- Docentes o capacitadores en redacción técnica
-- Cualquier profesional que necesite que su informe se lea... y se entienda
+- Flexible structures for effective reports / Estructura flexible para reportes efectivos
+- Best practices in technical writing / Buenas prácticas de redacción técnica
+- Emotional + technical checklist / Checklist emocional y técnico
+- What to do if no one reacts / Cómo actuar si nadie responde
+- Responsible use of AI tools / Uso seguro y responsable de IA
+- Visual storytelling and audience adaptation / Visualización de datos y adaptación al público
 
 ---
 
-## 📚 Licencia de uso
+## 🌎 Who Is This For / Dirigido a
 
+- Field engineers and technicians / Técnicos e ingenieros de campo
+- Engineering or tech students / Estudiantes de ingeniería o tecnologías
+- Supervisors and process owners / Supervisores y responsables de procesos
+- Trainers in technical writing / Docentes o capacitadores
+- Any professional who wants their report read—and understood  
+  Cualquier profesional que necesite que su informe se lea... y se entienda
+
+---
+
+## 📚 License / Licencia de uso
+
+This project is under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 Este proyecto está bajo la licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.
 
-Puedes copiar, redistribuir, adaptar y construir sobre este contenido para fines **educativos o no comerciales**, siempre que se cite correctamente al autor original y se mantenga el espíritu abierto del material.
+You’re free to copy, adapt, and build upon this material for **educational or non-commercial** purposes, as long as proper credit is given.  
+Puedes copiar, redistribuir, adaptar y construir sobre este contenido para fines **educativos o no comerciales**, siempre que se cite correctamente al autor original.
 
-🔗 [Ver texto completo de la licencia](https://creativecommons.org/licenses/by-nc/4.0/)
+🔗 [Full license terms / Texto completo de la licencia](https://creativecommons.org/licenses/by-nc/4.0/)
 
 © 2025 Yoniliman Galvis Aguirre
 
+> “If they don’t read it… no wonder they don’t understand it.”  
 > "Ojos que no leen... con razón que no entienden."
 
-**Versión:** 1.0 – Abril 2025
+**Version / Versión:** 1.0 – April / Abril 2025
 
-[![Licencia: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License CC BYNC 40](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
-## 💬 Comentarios, aportes y colaboraciones
+## 💬 Feedback and Contributions / Comentarios y Colaboraciones
 
-Puedes abrir un _issue_, hacer una copia (_fork_) del repositorio o escribirme si tienes mejoras, sugerencias o deseas adaptar esta guía a tu entorno organizacional o educativo.
+Feel free to open an issue, fork the repo, or reach out if you want to contribute, suggest improvements, or adapt this guide to your organization or classroom.  
+Puedes abrir un _issue_, hacer un _fork_ o escribirme si tienes mejoras, sugerencias o deseas adaptar esta guía a tu entorno organizacional o educativo.
 
 ---
 
