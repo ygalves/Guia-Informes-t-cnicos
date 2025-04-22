@@ -28,6 +28,7 @@ Writing for a maintenance technician is not the same as writing for the head of 
 
 Adapt your message. Use examples. Be clear. Don’t be afraid to explain the obvious if your reader might not know it.
 
+### Stop!
 🚨 And if you’re sending the report outside the company (to suppliers, clients, auditors), double-check what information you're sharing. When in doubt, talk to Legal. A careless email can cost more than a thousand miswritten words.
 
 ## Basic Structure (With Room to Breathe)
